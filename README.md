@@ -1,6 +1,6 @@
 # N. Kostin's st
 
-I forked this repo from [Luke Smith](https://lukesmith.xyz) and made some minor changes. Below is Luke's original README.
+I forked this build of st from [Luke Smith](https://lukesmith.xyz) and made some minor changes. Below is Luke's original README.
 
 ---
 
